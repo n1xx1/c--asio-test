@@ -1,0 +1,14 @@
+IndentWidth: 4
+AlignAfterOpenBracket: DontAlign
+BreakConstructorInitializers: AfterColon
+SeparateDefinitionBlocks: Always
+BreakBeforeBraces: Attach
+IndentAccessModifiers: false
+AccessModifierOffset: -4
+AllowShortLambdasOnASingleLine: Empty
+AlwaysBreakTemplateDeclarations: Yes
+LambdaBodyIndentation: Signature
+PointerAlignment: Left
+ReferenceAlignment: Left
+QualifierAlignment: Left
+AlignOperands: DontAlign
